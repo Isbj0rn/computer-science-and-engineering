@@ -7,3 +7,5 @@
 - **Website**: NULL
 
 # Completed Courses
+MIT 6.00.1x
+MIT 6.00.2x
